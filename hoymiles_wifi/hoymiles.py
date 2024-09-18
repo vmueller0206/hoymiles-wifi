@@ -81,7 +81,7 @@ type_mapping = {
     0x10F8: DTUType.DTU_PRO,
     0x4100: DTUType.DTU_PRO,
     0x10FD: DTUType.DTU_PRO,
-    0x4121: DTUType.DTU_PRO,
+    0x4121: DTUType.DTU_PRO_S,
     0x10D3: DTUType.DTU_W100_LITE_S,
     0x4110: DTUType.DTU_W100_LITE_S,
     0x10D8: DTUType.DTU_W100_LITE_S,
